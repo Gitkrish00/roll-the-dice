@@ -12,7 +12,7 @@ A simple Python program that simulates rolling a dice and generates a random num
 ## How to Run
 1. Download the file
 2. Run:
-   python roll.py
+   python roll.py in VS code
 
 ## Example
 You rolled: 4
